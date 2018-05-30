@@ -1,0 +1,8 @@
+{
+	"index.html": {
+    "translations": "traduções",
+    "start-button": "Clique aqui para começar!",
+		"what-is-title": "O que é o 8values?",
+    "what-is": "8values é, em essência, um teste político que tenta atribuir porcentagens para oito valores políticos diferentes. Você será apresentado por uma declaração, e então responderá com sua opinião sobre a declaração, de <b>Concordo totalmente</b> para <b>Discordo totalmente</b>, com cada resposta afetando um pouco sua pontuação. No final do teste, as suas respostas serão comparadas com o máximo possível para cada valor, dando-lhe uma percentagem. Responda honestamente!<br /><br />Existem<b><u><span id=\"numOfQuestions\"></span></u></b> questões no teste."
+	}
+}
