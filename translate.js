@@ -12,7 +12,8 @@ function loadJSON(callback, filename) {
 }
 
 function translate(translate_json){
-  var page = url.pathname.split('/').pop();
+  var page = url.pathname.split('/').pop() || 'index.html';
+
   for(key in translate_json[page]){
     console.log(key)
     document.getElementById(key).innerHTML = translate_json[page][key];
